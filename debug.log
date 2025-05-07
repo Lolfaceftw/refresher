@@ -1,0 +1,50 @@
+[2025-05-07 17:47:39] [INFO] Logging system initialized.
+[2025-05-07 17:47:39] [INFO] Program started. Mode: Targeted Window Keystroke Sender with Config.
+[2025-05-07 17:47:39] [INFO] LoadConfig: Reading configuration from 'options.config'.
+[2025-05-07 17:47:39] [DEBUG] LoadConfig: Loaded min_delay = 3.00
+[2025-05-07 17:47:39] [DEBUG] LoadConfig: Loaded max_delay = 8.00
+[2025-05-07 17:47:39] [DEBUG] GetTopLevelWindowFromClick: Waiting for left mouse button click.
+[2025-05-07 17:47:40] [DEBUG] GetTopLevelWindowFromClick: Left mouse button pressed.
+[2025-05-07 17:47:40] [DEBUG] GetTopLevelWindowFromClick: Left mouse button released.
+[2025-05-07 17:47:40] [INFO] GetTopLevelWindowFromClick: Click at (154, 501). WindowFromPoint HWND: 00000000000D110A. Top-level HWND: 00000000000D110A. Title: (17) FinancialJuice (@financialjuice) / X - Brave
+[2025-05-07 17:47:40] [DEBUG] FlashTargetWindow: Flashed window HWND: 00000000000D110A
+[2025-05-07 17:47:41] [INFO] Main: Entering main loop to send keystrokes to HWND 00000000000D110A. MinDelay: 3.00, MaxDelay: 8.00
+[2025-05-07 17:47:41] [DEBUG] Main: Waiting for 3.363 seconds.
+[2025-05-07 17:47:45] [DEBUG] ActivateWindow: Target 00000000000D110A is not foreground. Attempting to activate.
+[2025-05-07 17:47:45] [DEBUG] ActivateWindow: SetForegroundWindow for 00000000000D110A succeeded on attempt 1.
+[2025-05-07 17:47:45] [DEBUG] ActivateWindow: Pausing (350ms) for system to settle.
+[2025-05-07 17:47:45] [DEBUG] ActivateWindow: Target 00000000000D110A still has focus after settling pause.
+[2025-05-07 17:47:45] [DEBUG] SendCtrlF5 (SendInput): Sent Ctrl+F5 to HWND 00000000000D110A.
+[2025-05-07 17:47:45] [DEBUG] RestoreFocus: Attempting to restore original foreground to HWND 0000000000161148
+[2025-05-07 17:47:45] [WARNING] RestoreFocus: Failed to restore foreground to HWND 0000000000161148. Current FG: 0000000000000000
+[2025-05-07 17:47:45] [DEBUG] Main: Waiting for 4.576 seconds.
+[2025-05-07 17:47:50] [DEBUG] ActivateWindow: Target 00000000000D110A is not foreground. Attempting to activate.
+[2025-05-07 17:47:50] [DEBUG] ActivateWindow: SetForegroundWindow for 00000000000D110A succeeded on attempt 1.
+[2025-05-07 17:47:50] [DEBUG] ActivateWindow: Pausing (350ms) for system to settle.
+[2025-05-07 17:47:50] [DEBUG] ActivateWindow: Target 00000000000D110A still has focus after settling pause.
+[2025-05-07 17:47:50] [DEBUG] SendCtrlF5 (SendInput): Sent Ctrl+F5 to HWND 00000000000D110A.
+[2025-05-07 17:47:50] [DEBUG] RestoreFocus: Attempting to restore original foreground to HWND 00000000000208BE
+[2025-05-07 17:47:50] [DEBUG] RestoreFocus: Successfully restored foreground to HWND 00000000000208BE
+[2025-05-07 17:47:50] [DEBUG] Main: Waiting for 3.101 seconds.
+[2025-05-07 17:47:54] [DEBUG] ActivateWindow: Target 00000000000D110A is not foreground. Attempting to activate.
+[2025-05-07 17:47:54] [DEBUG] ActivateWindow: SetForegroundWindow for 00000000000D110A succeeded on attempt 1.
+[2025-05-07 17:47:54] [DEBUG] ActivateWindow: Pausing (350ms) for system to settle.
+[2025-05-07 17:47:54] [DEBUG] ActivateWindow: Target 00000000000D110A still has focus after settling pause.
+[2025-05-07 17:47:54] [DEBUG] SendCtrlF5 (SendInput): Sent Ctrl+F5 to HWND 00000000000D110A.
+[2025-05-07 17:47:54] [DEBUG] RestoreFocus: Attempting to restore original foreground to HWND 0000000000080BA2
+[2025-05-07 17:47:54] [DEBUG] RestoreFocus: Successfully restored foreground to HWND 0000000000080BA2
+[2025-05-07 17:47:54] [DEBUG] Main: Waiting for 5.862 seconds.
+[2025-05-07 17:48:00] [DEBUG] SendCtrlF5: Target window 00000000000D110A is already foreground.
+[2025-05-07 17:48:00] [DEBUG] SendCtrlF5 (SendInput): Sent Ctrl+F5 to HWND 00000000000D110A.
+[2025-05-07 17:48:00] [DEBUG] Main: Waiting for 5.838 seconds.
+[2025-05-07 17:48:06] [DEBUG] ActivateWindow: Target 00000000000D110A is not foreground. Attempting to activate.
+[2025-05-07 17:48:06] [DEBUG] ActivateWindow: SetForegroundWindow for 00000000000D110A succeeded on attempt 1.
+[2025-05-07 17:48:06] [DEBUG] ActivateWindow: Pausing (350ms) for system to settle.
+[2025-05-07 17:48:07] [DEBUG] ActivateWindow: Target 00000000000D110A still has focus after settling pause.
+[2025-05-07 17:48:07] [DEBUG] SendCtrlF5 (SendInput): Sent Ctrl+F5 to HWND 00000000000D110A.
+[2025-05-07 17:48:07] [DEBUG] RestoreFocus: Attempting to restore original foreground to HWND 0000000000080BA2
+[2025-05-07 17:48:07] [DEBUG] RestoreFocus: Successfully restored foreground to HWND 0000000000080BA2
+[2025-05-07 17:48:07] [DEBUG] Main: Waiting for 5.989 seconds.
+[2025-05-07 17:48:13] [DEBUG] SendCtrlF5: Target window 00000000000D110A is already foreground.
+[2025-05-07 17:48:13] [DEBUG] SendCtrlF5 (SendInput): Sent Ctrl+F5 to HWND 00000000000D110A.
+[2025-05-07 17:48:13] [DEBUG] Main: Waiting for 4.342 seconds.
